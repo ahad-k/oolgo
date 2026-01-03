@@ -1588,12 +1588,16 @@
           <links>
             <slidelink slideid="_player.5cqo6k52gXn.5ZepVFkjugs" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.5cqo6k52gXn.6oLmWxexrxf" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.5cqo6k52gXn.5s8vq6Gqi59" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.5cqo6k52gXn.6A5FlajdkpX" displaytext="Pick One" expand="false" type="slide" />
             <slidelink slideid="_player.5cqo6k52gXn.5zAdtQM1vOf" displaytext="عدد بعدی الگو را انتخاب کن و بنداز توی جای خالی&#xA;  2– 4 – 8-         " expand="false" type="slide" />
             <slidelink slideid="_player.5cqo6k52gXn.6KQkHttXsJA" displaytext="Pick One" expand="false" type="slide" />
             <slidelink slideid="_player.5cqo6k52gXn.5r8LrIJwrQ4" displaytext="عدد بعدی الگو را بنویس&#xA;&#xA; 1 – 4 – 9-        " expand="false" type="slide" />
             <slidelink slideid="_player.5cqo6k52gXn.6hffLeajKR0" displaytext="Drag and Drop" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6j5vMzJqnub" displaytext="Untitled Scene" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6j5vMzJqnub.5jvpy05OGsa" displaytext="Untitled Slide" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
